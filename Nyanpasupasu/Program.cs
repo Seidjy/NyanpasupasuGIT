@@ -11,6 +11,7 @@ namespace Nyanpasupasu
         static void Main(string[] args)
         {
             Console.WriteLine("NYANPASUPASU!");
+            Console.ReadKey();
         }
     }
 }
